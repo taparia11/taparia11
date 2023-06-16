@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikhil Taparia</h1>
 <h3 align="center">A passionate Full Stack Developer and Software Engineer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM28wNm8xd3VqNmtjdHNseDh3cDh6Y2xlZ2N1ZGY0bzJ6Y2xpam9yOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 - 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **C++, ReactJS, AWS, Docker**
