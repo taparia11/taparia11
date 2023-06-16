@@ -14,7 +14,7 @@
 - 📄 Know about my experiences [Here 💾](https://drive.google.com/file/d/11Lx6OkT54CyQz0vQ0yGyyMLEZtkIaKOk/view?usp=sharing)
 
 - ⚡ Fun fact **I speak three languages: English, Hindi, Marwari**
-
+<br><br><br><br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nikhil-taparia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil-taparia" height="30" width="40" /></a>
