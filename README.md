@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **taparianikhil13@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11Lx6OkT54CyQz0vQ0yGyyMLEZtkIaKOk/view?usp=sharing](https://drive.google.com/file/d/11Lx6OkT54CyQz0vQ0yGyyMLEZtkIaKOk/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/11Lx6OkT54CyQz0vQ0yGyyMLEZtkIaKOk/view?usp=sharing](https://drive.google.com/file/d/11Lx6OkT54CyQz0vQ0yGyyMLEZtkIaKOk/view?usp=)
 
 - ⚡ Fun fact **I speak three languages: English, Hindi, Marwari**
 
