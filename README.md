@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taparia11&label=Profile%20views&color=0e75b6&style=flat" alt="taparia11" /> </p>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM28wNm8xd3VqNmtjdHNseDh3cDh6Y2xlZ2N1ZGY0bzJ6Y2xpam9yOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
-
+ 
 
 - 🌱 I’m currently learning **Flutter**
 
